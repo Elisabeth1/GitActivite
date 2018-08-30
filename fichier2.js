@@ -1,1 +1,4 @@
-var = alert("hello World !)
+var hello = "hello world"
+alert(hello)
+
+
