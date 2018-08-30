@@ -1,0 +1,5 @@
+Bonjour,
+
+J'apprends à utiliser le logiciel de versionning Git car j'aspire à créer des logiciels en collaborant avec d'autres développeurs via GitHub. Ce cours qu'offre Openclassrooms est donc très interessant pour moi.
+
+Je remercie vivement l'équipe qui l'a mis en place.
